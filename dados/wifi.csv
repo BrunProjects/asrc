@@ -1,0 +1,20 @@
+ID,Local,Tipo,Mediana,Sinal_Distante,Variacao,Tendencia
+1,Frente do Lab 1,AP,-68,-70,-2,Esquerda
+2,Frente da sala 7,AP,-66,-70,-4,Esquerda
+3,Frente do Banheiro Feminino,AP,-48,-52,-4,Direita
+4,Frente da sala 3,AP,-48,-52,-4,Direita
+5,Fim da Ala de Engenharia,Medicao,-66,-70,-4,Esquerda
+6,Fim do Estacionamento,Medicao,-71,-77,-6,Esquerda
+7,Guarita,AP,-39,-46,-7,Direita
+8,Outro lado do Estacionamento,Medicao,-81,-88,-7,Esquerda
+9,Setor de Alimentos,AP,-68,-70,-2,Esquerda
+10,Quadra,AP,-48,-53,-5,Direita
+11,Lab Maker,Medicao,-77,-80,-3,Esquerda
+12,Setor de Agropecuaria,Medicao,-77,-81,-4,Esquerda
+13,Garagem,AP,-40,-51,-11,Direita
+14,Area de convivencia da biblioteca,Medicao,-58,-63,-5,Esquerda
+15,CIN,AP,-50,-58,-8,Esquerda
+16,Hall de Entrada,AP,-43,-52,-9,Direita
+17,Copa,AP,-42,-49,-7,Direita
+18,NTI,AP,-47,-50,-3,Direita
+19,Cantina,Medicao,-49,-58,-9,Direita
