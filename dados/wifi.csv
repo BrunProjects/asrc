@@ -1,4 +1,4 @@
-ID,Local,Tipo,Mediana (dBm),Distância de 10 ~ 30m (em dBm),Perda em dB aprox.,Tendência,Qualidade
+ID,Local,Tipo,Mediana,Sinal_Distante,Variacao,Tendencia,Qualidade
 1,Frente do Lab 1,AP,-68,-70,-2,Esquerda,Fraco
 2,Frente da sala 7,AP,-66,-70,-4,Esquerda,Aceitável
 3,Frente do Banheiro Feminino,AP,-48,-52,-4,Direita,Excelente

@@ -2,7 +2,7 @@ def gerar_estatisticas(df):
     return {
         "total_pontos": len(df),
         "total_aps": len(df[df["Tipo"] == "AP"]),
-        "total_medicoes": len(df[df["Tipo"] == "Medicao"]),
+        "total_medicoes": len(df[df["Tipo"] == "MEDICAO"]),
         "mediana_geral": df["Mediana"].median(),
         "melhor_sinal": df["Mediana"].max(),
         "pior_sinal": df["Mediana"].min(),
